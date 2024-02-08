@@ -5,7 +5,7 @@
 
 📫 How to reach me: hasshyas@gmail.com  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasshya2109&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasshya2109&theme=tokyonight)
 <!--
 **Hasshya2109/Hasshya2109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
