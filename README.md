@@ -16,7 +16,7 @@
   
 ### 📫 Connect with me  
 📧 [hasshyas@gmail.com](mailto:hasshyas@gmail.com)  
-🌐 [LinkedIn](https://www.linkedin.com/in/hasshya/) *(add your profile link here)*  
+🌐 [LinkedIn](https://www.linkedin.com/in/hasshya/) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasshya2109&theme=tokyonight)
 <!--
