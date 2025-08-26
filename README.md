@@ -1,10 +1,22 @@
-Hello, I'm Hasshya, a passionate computer engineering student with a keen interest in machine learning and artificial intelligence.
+# 👋 Hi, I'm Hasshya  
 
-In my journey as a student, I've gained hands-on experience in various machine learning frameworks such as TensorFlow, PyTorch, and Scikit-learn. From developing predictive models to implementing deep learning architectures, I thrive on turning data into actionable insights.
+🎓 Computer Engineering graduate passionate about **Machine Learning** and **Generative AI**.  
 
-🔭 Currently, I'm focusing on projects related to natural language processing and reinforcement learning, aiming to make meaningful contributions to the advancement of AI technology.
+💡 I specialize in building intelligent systems — from predictive models and deep learning architectures to advanced LLM-based applications and RAG pipelines. I thrive on solving real-world problems with data-driven insights and scalable AI solutions.  
 
-📫 How to reach me: hasshyas@gmail.com  
+### 🔬 What I work with  
+- 🧠 **Machine Learning & AI**: TensorFlow, PyTorch, Scikit-learn  
+- 🤖 **Generative AI**: LLMs, RAG systems, Multimodal Models, Diffusion Models  
+- 🛠 **Programming & Tools**: Python, SQL, BeautifulSoup, Selenium  
+
+### 🔭 Current Focus  
+- Generative AI applications (AI copilots, LLM automation, multimodal research)  
+- Natural Language Processing (NLP)  
+- Reinforcement Learning (RL)
+  
+### 📫 Connect with me  
+📧 [hasshyas@gmail.com](mailto:hasshyas@gmail.com)  
+🌐 [LinkedIn](https://www.linkedin.com/in/hasshya/) *(add your profile link here)*  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasshya2109&theme=tokyonight)
 <!--
